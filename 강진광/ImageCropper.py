@@ -1,6 +1,6 @@
 import cv2
 from os import listdir
-from os.path
+import os.path
 import sys
 
 def face_detector(img, size = 0.5):
